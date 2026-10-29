@@ -21,16 +21,15 @@ Tech Stack
 
 Project Structure
 
-student-management-system/
-├── add_student.php      # Form for adding student records
-├── config.php           # Database connection using PDO
-├── delete_student.php   # Handles student record deletion
-├── edit_student.php     # Form for editing student records
-├── list_students.php    # Displays student records
-├── style.css            # Interface styling
-├── student.sql          # Database schema and exported data
-└── README.md            # Project documentation
-
+File| Description
+"add_student.php"| Form for adding student records
+"config.php"| Database connection using PDO
+"delete_student.php"| Handles student record deletion
+"edit_student.php"| Form for editing student records
+"list_students.php"| Displays the list of student records
+"style.css"| Styles the user interface
+"student.sql"| Database schema and exported data
+"README.md"| Project documentation
 Getting Started
 
 Prerequisites
